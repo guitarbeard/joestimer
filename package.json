@@ -1,0 +1,12 @@
+{
+  "name": "joestimer",
+  "version": "1.0.0",
+  "description": "timer for work",
+  "main": "timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joesgit",
+  "license": "MIT",
+  "dependencies": {}
+}
